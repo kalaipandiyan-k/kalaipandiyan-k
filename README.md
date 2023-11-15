@@ -1,26 +1,18 @@
-Hi there 👋, my name is Kalaipandiyan
+<h1 align="center">Hi 👋, I'm KalaiPandiyan K</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am Passionate about Tech & servers.
+- 🌱 I’m currently learning **Python and Golang**
 
-About
-Senior Engineering Leader / SRE practitioner with 22+ years of alacrity / passion in delivering business applications & solutions. An amalgamation of proficiency in both application and infrastructure engineering with Tier-1 organisations. Proven in building and managing highly effective teams and capabilities from scratch or otherwise. Recruit / retain / help and run motivated teams of varied responsibilities delivering results within timelines, exceeding quality expectations.
+- 📫 How to reach me **k.kalaipandi@gmail.com**
 
+- ⚡ Fun fact **I love food**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-Skills
-
-DEVOPS
-SRE
-Open source Research
-Currently
-
-🔭 I’m currently working on GCP / AWS Specialization
-🌱 I’m currently learning Golang / Python
-💬 Ask me about TDD / BDD / Clean Code
-📫 How to reach me: webtechguru@gmail.com
-⚡ Fun fact: I love food
-Social
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
 
     
 
